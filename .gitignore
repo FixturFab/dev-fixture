@@ -1,0 +1,33 @@
+# Compiled output
+/build/
+
+# Dependency directories
+/lib/
+
+# IDE files
+*.iml
+.idea/
+*.code-workspace
+
+# Compiled binaries
+*.bin
+*.hex
+
+# Generated files
+*.gbr
+*.drl
+*.ger
+*.bom
+*.net
+*.pos
+*.stc
+*.csv
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.~lock.*
+
+# Logs
+*.log
